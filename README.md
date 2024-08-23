@@ -56,7 +56,7 @@ jobs:
 - Name: `GH_PAT`.
 - Value: The token with the `gist` scope generated previously.
 
-4. 💰 Profit
+4. 💰 Profit .
 
 ### Environment variables & secrets
 
