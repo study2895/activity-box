@@ -66,4 +66,4 @@ jobs:
 
 ---
 
-_Inspired by [matchai/bird-box](https://github.com/matchai/bird-box)_
+_Inspired by [matchai/bird-box](https://github.com/matchai/bird-box)_ !
